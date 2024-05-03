@@ -5,11 +5,11 @@ import string
 import pika
 
 # Параметры соединения по умолчанию
-DEFAULT_SERVER = '192.168.31.131'
-DEFAULT_PORT = 30672
-DEFAULT_VIRTUAL_HOST = 'ERIS'
-DEFAULT_USER = 'guest'
-DEFAULT_PASSWORD = '123'
+DEFAULT_SERVER = 'Server_IP'
+DEFAULT_PORT = 25672
+DEFAULT_VIRTUAL_HOST = '/'
+DEFAULT_USER = 'username'
+DEFAULT_PASSWORD = 'password'
 BAK_DIRECTORY = 'BAK'
 QUEUE_NAMES_FILE = 'queue_names.txt'
 
