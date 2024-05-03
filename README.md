@@ -16,6 +16,7 @@ git clone https://github.com/Babay156/rabbit-tool.git
 ```
 2. отредактируйте в файле rabbit-tool.py переменные перед запуском:
 ```
+# Параметры соединения по умолчанию
 DEFAULT_SERVER = 'Server_IP'
 DEFAULT_PORT = 25672
 DEFAULT_VIRTUAL_HOST = '/'
