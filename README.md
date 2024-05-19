@@ -10,7 +10,7 @@
     pip install piko
     ```
 3. **использование**
-    ****скачайте утилиту
+    ####скачайте утилиту
     ```
     git clone https://github.com/Babay156/rabbit-tool.git
     ```
