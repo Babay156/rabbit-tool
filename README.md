@@ -10,7 +10,8 @@
     pip install piko
     ```
 3. **использование**
-    скачайте утилиту
+
+   скачайте утилиту
     ```
     git clone https://github.com/Babay156/rabbit-tool.git
     ```
@@ -34,7 +35,7 @@
     ```
     python rabbit-tool print
     ```
-4. **допустимые параметры запуска:**
+5. **допустимые параметры запуска:**
     делает копию сообщений в каталог `./BAK/VIRTUAL_HOST/<имя очереди>`. данная команда очищает очередь
     ```
     python rabbit-tool backup
