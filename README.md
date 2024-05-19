@@ -10,11 +10,11 @@
     pip install piko
     ```
 3. **использование**
-    - скачайте утилиту
+    ****скачайте утилиту
     ```
     git clone https://github.com/Babay156/rabbit-tool.git
     ```
-    - отредактируйте в файле rabbit-tool.py переменные перед запуском:
+    отредактируйте в файле rabbit-tool.py переменные перед запуском:
     ```
     # Параметры соединения по умолчанию
     DEFAULT_SERVER = 'Server_IP'
