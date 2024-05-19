@@ -14,6 +14,7 @@
    скачайте утилиту
     ```
     git clone https://github.com/Babay156/rabbit-tool.git
+    cd ./rabbit-tool
     ```
     отредактируйте в файле rabbit-tool.py переменные перед запуском:
     ```
