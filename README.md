@@ -3,11 +3,11 @@
 1. **требования к установке**
     - Python3
     - pip
-    - модуль piko
+    - модуль pika
 
 2. **установка**
     ```
-    pip install piko
+    pip install pika
     ```
 3. **использование**
 
